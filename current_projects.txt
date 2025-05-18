@@ -1,0 +1,14 @@
+Riel: 54000 | English: Fifty Four Thousand Riel | Khmer: 54000 រៀល | USD: 13.50
+Riel: 54000 | English: Fifty Four Thousand Riel | Khmer: 54000 បួនពាន់រៀល | USD: 13.50
+Riel: 50000 | English: Fifty  Thousand Riel | Khmer: 50000 បួនពាន់រៀល | USD: 12.50
+Riel: 50000 | English: Fifty  Thousand Riel | Khmer: 50000 Array | USD: 12.50
+Riel: 5400 | English: Five Thousand Four Hundred Riel | Khmer:  រៀល | USD: 1.35
+Riel: 50000 | English: Fifty  Thousand Riel | Khmer: ប្រាំ ម៉ឺន រៀល | USD: 12.50
+Riel: 1200 | English: One Thousand Two Hundred Riel | Khmer: មួយ ពាន់ ពីរ រយ រៀល | USD: 0.30
+Riel: 54000 | English: Fifty Four Thousand Riel | Khmer: ប្រាំ ម៉ឺន បួន ពាន់ រៀល | USD: 13.50
+Riel: 123456700 | English: One Hundred Twenty Three Million Four Hundred Fifty Six Thousand Seven Hundred Riel | Khmer: មួយ ពីរ បី លាន បួន សែន ប្រាំ ម៉ឺន ប្រាំមួយ ពាន់ ប្រាំពីរ រយ រៀល | USD: 30,864.18
+Riel: 587643900 | English: Five Hundred Eighty Seven Million Six Hundred Forty Three Thousand Nine Hundred Riel | Khmer: ប្រាំ ប្រាំបី ប្រាំពីរ លាន ប្រាំមួយ សែន បួន ម៉ឺន បី ពាន់ ប្រាំបួន រយ រៀល | USD: 146,910.98
+Riel: 14567890 | English: Fourteen Million Five Hundred Sixty Seven Thousand Eight Hundred Ninety Riel | Khmer: មួយ បួន លាន ប្រាំ សែន ប្រាំមួយ ម៉ឺន ប្រាំពីរ ពាន់ ប្រាំបី រយ ប្រាំបួន ដប់ រៀល | USD: 3,641.97
+Riel: 98764086 | English: Ninety Eight Million Seven Hundred Sixty Four Thousand Eighty Six Riel | Khmer: ប្រាំបួន ប្រាំបី លាន ប្រាំពីរ សែន ប្រាំមួយ ម៉ឺន បួន ពាន់ ប្រាំបី ដប់ ប្រាំមួយ រៀល | USD: 24,691.02
+Riel: 7565432879 | English: Seven Billion Five Hundred Sixty Five Million Four Hundred Thirty Two Thousand Eight Hundred Seventy Nine Riel | Khmer: ប្រាំពីរ ប្រាំ ប្រាំមួយ ប្រាំ លាន បួន សែន បី ម៉ឺន ពីរ ពាន់ ប្រាំបី រយ ប្រាំពីរ ដប់ ប្រាំបួន រៀល | USD: 1,891,358.22
+Riel: 762409865 | English: Seven Hundred Sixty Two Million Four Hundred Nine Thousand Eight Hundred Sixty Five Riel | Khmer: ប្រាំពីរ ប្រាំមួយ ពីរ លាន បួន សែន ប្រាំបួន ពាន់ ប្រាំបី រយ ប្រាំមួយ ដប់ ប្រាំ រៀល | USD: 190,602.47

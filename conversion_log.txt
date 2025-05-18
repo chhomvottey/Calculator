@@ -1,0 +1,5 @@
+Input: 587643900 Riels | English: Five Hundred Eighty Seven Million Six Hundred Forty Three Thousand Nine Hundred Riel | Khmer: ប្រាំ ប្រាំបី ប្រាំពីរ លាន ប្រាំមួយ សែន បួន ម៉ឺន បី ពាន់ ប្រាំបួន រយ រៀល | USD: 146,910.98 $
+Input: 14567890 Riels | English: Fourteen Million Five Hundred Sixty Seven Thousand Eight Hundred Ninety Riel | Khmer: មួយ បួន លាន ប្រាំ សែន ប្រាំមួយ ម៉ឺន ប្រាំពីរ ពាន់ ប្រាំបី រយ ប្រាំបួន ដប់ រៀល | USD: 3,641.97 $
+Input: 98764086 Riels | English: Ninety Eight Million Seven Hundred Sixty Four Thousand Eighty Six Riel | Khmer: ប្រាំបួន ប្រាំបី លាន ប្រាំពីរ សែន ប្រាំមួយ ម៉ឺន បួន ពាន់ ប្រាំបី ដប់ ប្រាំមួយ រៀល | USD: 24,691.02 $
+Input: 7565432879 Riels | English: Seven Billion Five Hundred Sixty Five Million Four Hundred Thirty Two Thousand Eight Hundred Seventy Nine Riel | Khmer: ប្រាំពីរ ប្រាំ ប្រាំមួយ ប្រាំ លាន បួន សែន បី ម៉ឺន ពីរ ពាន់ ប្រាំបី រយ ប្រាំពីរ ដប់ ប្រាំបួន រៀល | USD: 1,891,358.22 $
+Input: 762409865 Riels | English: Seven Hundred Sixty Two Million Four Hundred Nine Thousand Eight Hundred Sixty Five Riel | Khmer: ប្រាំពីរ ប្រាំមួយ ពីរ លាន បួន សែន ប្រាំបួន ពាន់ ប្រាំបី រយ ប្រាំមួយ ដប់ ប្រាំ រៀល | USD: 190,602.47 $
